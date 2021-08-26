@@ -1,2 +1,2 @@
-# Python-Pandas-T-cnicas-avan-adas
+# Python-Pandas-Técnicas-avançadas
 Curso Técnicas tratamento e analisando dados.
